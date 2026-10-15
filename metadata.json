@@ -1,0 +1,6 @@
+{
+  "name": "MotionDrive",
+  "description": "Ultra-low latency motion game controller for browser games featuring tilt steering, drift triggers, haptic feedback, and an embedded retro car racing game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
